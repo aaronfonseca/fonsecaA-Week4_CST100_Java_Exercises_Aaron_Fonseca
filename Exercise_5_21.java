@@ -1,3 +1,11 @@
+
+/** Program: Exercise 5.21
+* File: Exercise_5_21.java
+* Summary: Chapter 5, Exercise 21. (Financial application: compare loans with various interest rates) 
+* Author: Aaron Fonseca
+* Date: July 13, 2016
+**/
+
 import java.util.Scanner;
 
 public class Exercise_5_21 {

@@ -1,4 +1,11 @@
 
+/** Program: Exercise 5.39
+* File: Exercise_5_39.java
+* Summary: Chapter 5, Exercise 39. (Financial application: find the sales amount)
+* Author: Aaron Fonseca
+* Date: July 13, 2016
+**/
+
 public class Exercise_5_39 {
 
 	public static void main(String[] args) {
